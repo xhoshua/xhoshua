@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/xhoi-m-073b08133//">
   <img align="left" alt="Xhoi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br/>
 
 Hi, i'm Xhoi Muça, a passionate self-taught fornt-end react developer from Albania. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
