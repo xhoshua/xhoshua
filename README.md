@@ -7,7 +7,27 @@
 </a>
 <br/>
 <br/>
-Hi, i'm Xhoi Muça, a passionate self-taught front-end react developer from Albania. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Xhoi Muça
+located_in: Tiran, Albania
+current_job: React Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Engineering",
+  ]
+company: WoW Design
+fields_of_interests:
+  [
+    "Web Development",,
+    "UI/UX"
+  ]
+  
+currently_learning: ["React Advance,React Native,Vue.js"]
+hobbies: ["Gaming", "Anime", "Comedy"]
+``` 
 
 <img align="right" alt="GIF" src="https://github.com/xhoshua/xhoshua/blob/main/code.gif?raw=true" width="500" height="320" />
 
