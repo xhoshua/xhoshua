@@ -6,6 +6,7 @@
   <img align="left" alt="Xhoi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
+<br/>
 Hi, i'm Xhoi Muça, a passionate self-taught front-end react developer from Albania. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 <img align="right" alt="GIF" src="https://github.com/xhoshua/xhoshua/blob/main/code.gif?raw=true" width="500" height="320" />
