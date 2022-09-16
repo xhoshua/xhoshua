@@ -21,4 +21,6 @@ Hi, i'm Xhoi Muça, a passionate self-taught front-end react developer from Alba
 [![My Skills](https://skills.thijs.gg/icons?i=html&theme=dark)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs&theme=dark)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php&theme=dark)](https://skills.thijs.gg)
+
 
