@@ -10,4 +10,7 @@
 
 Hi, i'm Xhoi Muça, a passionate self-taught fornt-end react developer from Albania. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/xhoshua/xhoshua/blob/main/code.gif?raw=true" width="500" height="320" />
+
+- 💼 any freelance work? do reach, [email](mucaxhoi3@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
