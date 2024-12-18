@@ -3,7 +3,7 @@
   <img align="left" alt="Xhoi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/xhoi-m-073b08133//">
-  <img align="left" alt="Xhoi's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://img.icons8.com/?size=100&id=8808&format=png&color=000000)" />
+  <img align="left" alt="Xhoi's LinkedIN" width="22px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" />
 </a>
 <br/>
 <br/>
@@ -18,11 +18,13 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelor's in Computer Engineering",
   ]
-company: WoW Design
+company: Unioni Financiar Tirane
 fields_of_interests:
   [
-    "Web Development",,
-    "UI/UX"
+    "Web Development",
+    "UI/UX",
+    "IOS Developer (SwiftUI)",
+    "C#,.net"
   ]
   
 currently_learning: ["React Advance,React Native,Vue.js"]
