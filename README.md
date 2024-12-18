@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Anime", "Comedy"]
 - 💬 ask me about anything, i am happy to help;
 
 **Languages and tools:**  
-[![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)]
+  <img align="left" alt="C#" width="22px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
 [![My Skills](https://skills.thijs.gg/icons?i=react&theme=dark)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=css&theme=dark)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=html&theme=dark)](https://skills.thijs.gg)
