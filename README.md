@@ -45,6 +45,8 @@ hobbies: ["Gaming", "Anime", "Comedy"]
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" />
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" />
+  <br/>
+<br/>
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
