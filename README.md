@@ -11,8 +11,8 @@
 
 ```yaml
 name: Xhoi Muça
-located_in: Tiran, Albania
-current_job: React Developer
+located_in: Tirane, Albania
+current_job: Software Developer
 education:
   [
     "Self-Taught Developer and Designer",
