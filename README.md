@@ -3,7 +3,7 @@
   <img align="left" alt="Xhoi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/xhoi-m-073b08133//">
-  <img align="left" alt="Xhoi's LinkedIN" width="22px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" />
+  <img align="left" alt="Xhoi's LinkedIN" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
 </a>
 <br/>
 <br/>
@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Anime", "Comedy"]
 - 💬 ask me about anything, i am happy to help;
 
 **Languages and tools:**  
-[![My Skills](https://skills.thijs.gg/icons?i=js&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)]
 [![My Skills](https://skills.thijs.gg/icons?i=react&theme=dark)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=css&theme=dark)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=html&theme=dark)](https://skills.thijs.gg)
