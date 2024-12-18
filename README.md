@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Anime", "Comedy"]
 - 💬 ask me about anything, i am happy to help;
 
 **Languages and tools:**  
-  <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
+  <img align="left" alt="C#" width="35px" style="margin-bottom:5px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
     <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" />
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" />
   <img align="left" alt="C#" width="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
